@@ -1,4 +1,4 @@
-# dl_tricks_on_standardized_datasets
+# Standardized Datasets for Applying Deep Learning Tricks and Benchmarking Models
 Deep learning methods and unit tests for standardized datasets. Used as a benchmark for new approaches. 
 
 1 .datasets from the GECCO variant scoring project, varying levels of difficulty 
